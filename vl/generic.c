@@ -39,18 +39,10 @@ VLFeat strives to be clutter-free, simple, portable, and well documented.
   - @subpage covdet
   - @subpage scalespace
   - @subpage hog
-  - @subpage fisher
-  - @subpage vlad
-  - @subpage liop
   - @subpage lbp
 
 - **Clustering and indexing**
-  - @subpage kmeans
-  - @subpage ikmeans.h  "Integer K-means (IKM)"
-  - @subpage hikmeans.h "Hierarchical Integer K-means (HIKM)"
-  - @subpage gmm
   - @subpage aib
-  - @subpage kdtree
 
 - **Segmentation**
   - @subpage slic
