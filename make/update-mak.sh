@@ -58,7 +58,6 @@ a=$(subv "$a" "$ver")
 # updates hard-wired list of source code files in the nmake script
 a=$(sub "$a" libsrc vl)
 a=$(sub "$a" cmdsrc src)
-a=$(sub "$a" mexsrc toolbox)
 
 echo "$a" > Makefile.mak.new
 
